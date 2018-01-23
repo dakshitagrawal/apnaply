@@ -1,0 +1,31 @@
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  Established on 15 January, 2018,  we are a company that provides high quality plywood that has been
+  processed by running through hot press, dryers, boilers and other modern machines.  We also provide
+  flush door, block board, laminates, sunmika, timbers, PVC panel and sheets.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.apnaply.com" # the base hostname & protocol for your site
+
+# User setting
+owner:
+email: shridurgatraders@yahoo.com
+facebook_username: apnaply
+twitter_username:
+github_username:
+address:
+  - line: Shri Durga Traders
+  - line: A-18, Small Scale Furniture Industrial Area
+  - line: Kota, Rajasthan
+  - line: India
+  - line: PIN Code - 324007
+  # Feel free to add more lines here
+telephone: 0744-2366064, 8267890464, 8890094508
+copyright:
+
+# API settings
+google_api_key: AIzaSyAHnWnu3hw9NVrlwxxJ0sWPHiQIwz-pvWE
+
+# Build settings
+markdown: kramdown
